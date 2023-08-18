@@ -1,0 +1,33 @@
+location,place,rating,type
+New York,Central Park,4.8,Park
+New York,Times Square,4.7,Attraction
+New York,Empire State Building,4.6,Skyscraper
+New York,Brooklyn Bridge,4.5,Bridge
+San Francisco,Golden Gate Park,4.8,Park
+San Francisco,Alcatraz Island,4.6,Island
+San Francisco,Fisherman's Wharf,4.5,Waterfront
+San Francisco,Chinatown,4.4,Neighborhood
+Los Angeles,Hollywood Walk of Fame,4.3,Attraction
+Los Angeles,Santa Monica Pier,4.7,Pier
+Los Angeles,Griffith Observatory,4.8,Observatory
+Los Angeles,Venice Beach,4.6,Beach
+Chicago,Millennium Park,4.9,Park
+Chicago,The Art Institute of Chicago,4.7,Museum
+Chicago,Cloud Gate (The Bean),4.6,Art Installation
+Chicago,Navy Pier,4.5,Pier
+Miami,South Beach,4.8,Beach
+Miami,Art Deco Historic District,4.7,Neighborhood
+Miami,Wynwood Walls,4.6,Art
+Miami,Little Havana,4.5,Neighborhood
+London,Buckingham Palace,4.7,Palace
+London,Tower of London,4.6,Castle
+London,British Museum,4.8,Museum
+London,Hyde Park,4.7,Park
+Paris,Eiffel Tower,4.9,Monument
+Paris,Louvre Museum,4.7,Museum
+Paris,Notre-Dame Cathedral,4.5,Cathedral
+Paris,Montmartre,4.6,Neighborhood
+Tokyo,Tokyo Tower,4.5,Observation Deck
+Tokyo,Shinjuku Gyoen National Garden,4.7,Garden
+Tokyo,Senso-ji Temple,4.6,Temple
+Tokyo,Akihabara,4.5,Neighborhood

@@ -1,0 +1,55 @@
+location,place,review,rating,type
+Paris,France,"Wonderful experience at the Eiffel Tower. The view was breathtaking!",5,Sightseeing
+Paris,France,"Delicious croissants at the local bakery. Highly recommend.",4,Food
+Paris,France,"The Louvre Museum was crowded, but the art collection was impressive.",4,Sightseeing
+Rome,Italy,"The Colosseum is a must-visit landmark. Incredible history!",5,Sightseeing
+Rome,Italy,"Pasta at a family-owned trattoria was fantastic. A true Italian experience.",5,Food
+Rome,Italy,"Visited the Vatican City and saw the beautiful Sistine Chapel.",5,Sightseeing
+Tokyo,Japan,"Shibuya Crossing was overwhelming but exciting. So much to see!",4,Sightseeing
+Tokyo,Japan,"Sushi at a local restaurant was fresh and delectable.",5,Food
+Tokyo,Japan,"The Meiji Shrine provided a serene escape from the city bustle.",4,Sightseeing
+New York,USA,"Times Square was vibrant and full of energy, even late at night.",4,Sightseeing
+New York,USA,"Enjoyed a Broadway show - the talent and production were incredible.",5,Entertainment
+New York,USA,"Central Park was a great place to relax and unwind.",4,Sightseeing
+London,UK,"The British Museum had an extensive collection. Loved the historical artifacts.",5,Sightseeing
+London,UK,"Fish and chips from a local pub were delicious. A true British classic.",4,Food
+London,UK,"Took a ride on the London Eye and enjoyed panoramic views of the city.",4,Sightseeing
+Berlin,Germany,"Checkpoint Charlie was a historical site with informative exhibits.",4,Sightseeing
+Berlin,Germany,"Bratwurst at a street market was tasty and authentic.",3,Food
+Berlin,Germany,"Explored the East Side Gallery to see the remnants of the Berlin Wall.",5,Sightseeing
+Sydney,Australia,"Bondi Beach was stunning, with clear blue waters and golden sands.",5,Beach
+Sydney,Australia,"Sampled kangaroo meat at a local restaurant. An interesting experience.",3,Food
+Sydney,Australia,"Sydney Opera House is an architectural marvel. Took a guided tour.",5,Sightseeing
+Beijing,China,"Walked along the Great Wall of China. A bucket-list adventure!",5,Sightseeing
+Beijing,China,"Dumplings at a traditional teahouse were a delightful treat.",4,Food
+Beijing,China,"Explored the Forbidden City and learned about its historical significance.",5,Sightseeing
+Tokyo,Japan,"Ate authentic ramen at a local noodle shop. Flavorful and satisfying.",4,Food
+Tokyo,Japan,"Strolled through Akihabara, a district known for its electronics and anime shops.",4,Sightseeing
+Tokyo,Japan,"Ginza shopping district offered high-end fashion and luxury brands.",3,Shopping
+Cairo,Egypt,"Visited the Pyramids of Giza and marveled at their grandeur.",5,Sightseeing
+Cairo,Egypt,"Tasted traditional Egyptian cuisine, including falafel and koshari.",4,Food
+Cairo,Egypt,"Explored the Egyptian Museum and learned about ancient artifacts.",4,Sightseeing
+Moscow,Russia,"The Red Square was impressive, surrounded by historic architecture.",5,Sightseeing
+Moscow,Russia,"Enjoyed traditional Russian borscht soup at a local restaurant.",4,Food
+Moscow,Russia,"Kremlin and St. Basil's Cathedral were breathtaking landmarks.",5,Sightseeing
+Rio de Janeiro,Brazil,"Cristo Redentor statue offered panoramic views of the city. Stunning!",5,Sightseeing
+Rio de Janeiro,Brazil,"Samba music and dance at a local festival was a vibrant experience.",4,Entertainment
+Rio de Janeiro,Brazil,"Relaxed on the famous Copacabana Beach and soaked up the sun.",4,Beach
+Athens,Greece,"Explored the Acropolis and admired the ancient Parthenon.",5,Sightseeing
+Athens,Greece,"Savored Greek souvlaki and tzatziki. A true Mediterranean delight.",4,Food
+Athens,Greece,"Walked through Plaka, the charming old town of Athens.",4,Sightseeing
+Nairobi,Kenya,"Went on a thrilling safari and spotted magnificent wildlife.",5,Adventure
+Nairobi,Kenya,"Tried authentic Kenyan cuisine, including nyama choma (grilled meat).",4,Food
+Nairobi,Kenya,"Visited the Giraffe Centre and had close encounters with giraffes.",4,Wildlife
+Mexico City,Mexico,"Explored the ancient ruins of Teotihuacan and climbed the Pyramid of the Sun.",5,Sightseeing
+Mexico City,Mexico,"Tacos from a street vendor were delicious and packed with flavor.",4,Food
+Mexico City,Mexico,"Frida Kahlo Museum offered insights into the artist's life and work.",4,Cultural
+Stockholm,Sweden,"Explored the historic Gamla Stan (Old Town) and its charming streets.",5,Sightseeing
+Stockholm,Sweden,"Tasted Swedish meatballs and lingonberry sauce. A classic dish!",4,Food
+Stockholm,Sweden,"Vasa Museum showcased a well-preserved 17th-century warship.",5,Museum
+Cape Town,South Africa,"Table Mountain provided breathtaking panoramic views of the city.",5,Sightseeing
+Cape Town,South Africa,"Sampled local wines in the Cape Winelands. Truly enjoyable.",4,Food
+Cape Town,South Africa,"Visited Robben Island, where Nelson Mandela was imprisoned.",4,Cultural
+Buenos Aires,Argentina,"Tango show in San Telmo was a mesmerizing display of dance and music.",4,Entertainment
+Buenos Aires,Argentina,"Savory Argentine steak at a parrilla (steakhouse) was exceptional.",5,Food
+Buenos Aires,Argentina,"Explored the Recoleta Cemetery and its ornate mausoleums.",4,Sightseeing
